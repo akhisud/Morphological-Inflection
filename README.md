@@ -5,7 +5,9 @@ This work was done during my internship at NLP Research Lab, IIT (BHU) in 2017, 
 
 ## Note
 
-This repo contains code for one set of configurations described in the paper. We have submitted many configurations, the code for the rest of which, will be uploaded soon. This repo is still in construction but the code existing currently is complete in its own regard.
+1) This repo contains code for one set of configurations described in the paper. We have submitted many configurations, the code for the rest of which, will be uploaded soon. This repo is still in construction but the code existing currently is complete in its own regard.
+
+2) Some code and general concepts have been borrowed from submissions in SIGMORPHON 2016 (previous year's version)
 
 ## Usage:
 
